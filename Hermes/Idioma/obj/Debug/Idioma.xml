@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Idioma
+</name>
+</assembly>
+<members>
+<member name="M:Idioma.bllidioma.listadecontroles(System.Windows.Forms.Control)">
+	<summary>
+ Obtiene una lista de controles existentes en el control contenedor
+ principal especificado, incluyendo aquellos contenidos a su vez en
+ otros controles hijos.
+ </summary>
+	<param name="parentContainer">Objeto Control que actúa de contenedor principal.</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Idioma.bllidioma.listademenu(System.Windows.Forms.MenuStrip)">
+	<summary>
+ Obtiene una lista de controles ToolStripMenuItem existentes
+ en el objeto MenuStrip principal especificado.
+ </summary>
+	<param name="parentContainer">Objeto MenuStrip principal.</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Idioma.bllidioma.listastripitems(System.Windows.Forms.ToolStripMenuItem)">
+	<summary>
+ Obtiene una lista de controles ToolStripItem existentes
+ en el objeto ToolStripMenuItem principal especificado.
+ </summary>
+	<param name="parentContainer">Objeto ToolStripMenuItem principal.</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Idioma.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Idioma.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Idioma.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

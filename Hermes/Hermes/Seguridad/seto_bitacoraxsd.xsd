@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="seto_bitacoraxsd" targetNamespace="http://tempuri.org/seto_bitacoraxsd.xsd" xmlns:mstns="http://tempuri.org/seto_bitacoraxsd.xsd" xmlns="http://tempuri.org/seto_bitacoraxsd.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="seto_bitacoraxsd" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="seto_bitacoraxsd" msprop:Generator_UserDSName="seto_bitacoraxsd">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="seto_bitacora" msprop:Generator_TableClassName="seto_bitacoraDataTable" msprop:Generator_TableVarName="tableseto_bitacora" msprop:Generator_TablePropName="seto_bitacora" msprop:Generator_RowDeletingName="seto_bitacoraRowDeleting" msprop:Generator_RowChangingName="seto_bitacoraRowChanging" msprop:Generator_RowEvHandlerName="seto_bitacoraRowChangeEventHandler" msprop:Generator_RowDeletedName="seto_bitacoraRowDeleted" msprop:Generator_UserTableName="seto_bitacora" msprop:Generator_RowChangedName="seto_bitacoraRowChanged" msprop:Generator_RowEvArgName="seto_bitacoraRowChangeEvent" msprop:Generator_RowClassName="seto_bitacoraRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_bitacora" msprop:Generator_ColumnVarNameInTable="columnid_bitacora" msprop:Generator_ColumnPropNameInRow="id_bitacora" msprop:Generator_ColumnPropNameInTable="id_bitacoraColumn" msprop:Generator_UserColumnName="id_bitacora" type="xs:string" minOccurs="0" />
+              <xs:element name="nombre_usuario" msprop:Generator_ColumnVarNameInTable="columnnombre_usuario" msprop:Generator_ColumnPropNameInRow="nombre_usuario" msprop:Generator_ColumnPropNameInTable="nombre_usuarioColumn" msprop:Generator_UserColumnName="nombre_usuario" type="xs:string" minOccurs="0" />
+              <xs:element name="desc_mov" msprop:Generator_ColumnVarNameInTable="columndesc_mov" msprop:Generator_ColumnPropNameInRow="desc_mov" msprop:Generator_ColumnPropNameInTable="desc_movColumn" msprop:Generator_UserColumnName="desc_mov" type="xs:string" minOccurs="0" />
+              <xs:element name="criticidad" msprop:Generator_ColumnVarNameInTable="columncriticidad" msprop:Generator_ColumnPropNameInRow="criticidad" msprop:Generator_ColumnPropNameInTable="criticidadColumn" msprop:Generator_UserColumnName="criticidad" type="xs:string" minOccurs="0" />
+              <xs:element name="Fecha_mov" msprop:Generator_ColumnVarNameInTable="columnFecha_mov" msprop:Generator_ColumnPropNameInRow="Fecha_mov" msprop:Generator_ColumnPropNameInTable="Fecha_movColumn" msprop:Generator_UserColumnName="Fecha_mov" type="xs:string" minOccurs="0" />
+              <xs:element name="dvh" msprop:Generator_ColumnVarNameInTable="columndvh" msprop:Generator_ColumnPropNameInRow="dvh" msprop:Generator_ColumnPropNameInTable="dvhColumn" msprop:Generator_UserColumnName="dvh" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

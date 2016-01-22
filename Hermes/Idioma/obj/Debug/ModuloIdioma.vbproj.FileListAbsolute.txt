@@ -1,0 +1,9 @@
+C:\Users\Karen\OneDrive\Diploma\Hermes\Hermes\Idioma\obj\Debug\Idioma.Resources.resources
+C:\Users\Karen\OneDrive\Diploma\Hermes\Hermes\Idioma\obj\Debug\ModuloIdioma.vbproj.GenerateResource.Cache
+C:\Users\Karen\OneDrive\Diploma\Hermes\Hermes\Idioma\bin\Debug\Idioma.exe.config
+C:\Users\Karen\OneDrive\Diploma\Hermes\Hermes\Idioma\bin\Debug\Idioma.exe
+C:\Users\Karen\OneDrive\Diploma\Hermes\Hermes\Idioma\bin\Debug\Idioma.pdb
+C:\Users\Karen\OneDrive\Diploma\Hermes\Hermes\Idioma\bin\Debug\Idioma.xml
+C:\Users\Karen\OneDrive\Diploma\Hermes\Hermes\Idioma\obj\Debug\Idioma.exe
+C:\Users\Karen\OneDrive\Diploma\Hermes\Hermes\Idioma\obj\Debug\Idioma.xml
+C:\Users\Karen\OneDrive\Diploma\Hermes\Hermes\Idioma\obj\Debug\Idioma.pdb

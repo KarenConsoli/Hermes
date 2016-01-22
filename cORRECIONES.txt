@@ -1,0 +1,15 @@
+-Gestion usuarios:v  		OK
+-Eliminar columna contraseña OK
+-ModificaR ID x nombre OK
+-dvh OK
+-cant OK
+
+patente-usuario OK 
+-Asignar y Desasignar OK 
+-ver patentes asignadas( solo familia) OK
+
+modificar usuario OK
+NO NECESARIO cambiar contraseña OK
+
+login
+-no verifica baja OK

@@ -1,0 +1,680 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Hermes
+</name>
+</assembly>
+<members>
+<member name="T:Hermes.Campo.bitacoraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.ChoferDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo._chofer_telDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.chofer_telDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.cliente_telDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.clientepaqueteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.CPDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.CrashDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.crash_lugarchoqueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.crash_tipochoqueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.DVVDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.FacturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.FamiliaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.IdiomaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.PaisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.PaqueteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.patentefamiliaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.PatentesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.ProvinciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.punto_llegadaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.punto_partidaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.RodadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo._Rodado_MarcaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo._Rodado_TipoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.rodado_choferDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.rodado_marcaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.rodado_rutasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.rodado_tipoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.ruta_fechaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.RutasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.Tel_UsuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.transporte_paqueteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.TransportesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.usuariofamiliaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.usuariopatenteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.UsuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.Campo.bitacoraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.ChoferRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo._chofer_telRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.chofer_telRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.cliente_telRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.clientepaqueteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.CPRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.CrashRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.crash_lugarchoqueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.crash_tipochoqueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.DVVRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.FacturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.FamiliaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.IdiomaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.PaisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.PaqueteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.patentefamiliaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.PatentesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.ProvinciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.punto_llegadaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.punto_partidaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.RodadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo._Rodado_MarcaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo._Rodado_TipoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.rodado_choferRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.rodado_marcaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.rodado_rutasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.rodado_tipoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.ruta_fechaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.RutasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.Tel_UsuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.transporte_paqueteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.TransportesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.usuariofamiliaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.usuariopatenteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.UsuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.Campo.bitacoraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.ChoferRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo._chofer_telRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.chofer_telRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.cliente_telRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.clientepaqueteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.CPRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.CrashRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.crash_lugarchoqueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.crash_tipochoqueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.DVVRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.FacturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.FamiliaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.IdiomaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.PaisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.PaqueteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.patentefamiliaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.PatentesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.ProvinciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.punto_llegadaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.punto_partidaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.RodadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo._Rodado_MarcaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo._Rodado_TipoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.rodado_choferRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.rodado_marcaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.rodado_rutasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.rodado_tipoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.ruta_fechaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.RutasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.Tel_UsuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.transporte_paqueteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.TransportesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.usuariofamiliaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.usuariopatenteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo.UsuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.Campo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.bitacoraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.ChoferTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.chofer_telTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.chofer_telTableAdapter1">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.cliente_telTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.clientepaqueteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.ClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.CPTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.CrashTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.crash_lugarchoqueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.crash_tipochoqueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.DVVTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.FacturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.FamiliaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.IdiomaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.PaisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.PaqueteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.patentefamiliaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.PatentesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.ProvinciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.punto_llegadaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.punto_partidaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.RodadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.Rodado_MarcaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.Rodado_TipoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.rodado_choferTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.rodado_marcaTableAdapter1">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.rodado_rutasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.rodado_tipoTableAdapter1">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.ruta_fechaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.RutasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.Tel_UsuariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.transporte_paqueteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.TransportesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.usuariofamiliaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.usuariopatenteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.UsuariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hermes.CampoTableAdapters.TableAdapterManager.UpdateUpdatedRows(Hermes.Campo,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hermes.CampoTableAdapters.TableAdapterManager.UpdateInsertedRows(Hermes.Campo,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hermes.CampoTableAdapters.TableAdapterManager.UpdateDeletedRows(Hermes.Campo,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hermes.CampoTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hermes.CampoTableAdapters.TableAdapterManager.UpdateAll(Hermes.Campo)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hermes.CampoTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Hermes.seto_bitacoraxsd.seto_bitacoraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hermes.seto_bitacoraxsd.seto_bitacoraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hermes.seto_bitacoraxsd.seto_bitacoraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hermes.seto_bitacoraxsd">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Hermes.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Hermes.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:Hermes.My.Resources.Resources.accept">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hermes.My.Resources.Resources.Hermes_Openbaar_Vervoer_logo_svg">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hermes.My.Resources.Resources.UltimoE">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Hermes.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

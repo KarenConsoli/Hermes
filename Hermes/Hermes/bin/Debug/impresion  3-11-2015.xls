@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+    <Styles>
+        <Style ss:ID="hdr">
+            <Alignment ss:Horizontal="Center"/>
+            <Borders>
+                <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+            </Borders>
+            <Font ss:FontName="Calibri" ss:Size="11" ss:Bold="1"/>
+        </Style>
+        <Style ss:ID="ksg">
+            <Alignment ss:Vertical="Bottom"/>
+            <Borders/>
+            <Font ss:FontName="Calibri"/>
+        </Style>
+        <Style ss:ID="isi">
+            <Borders>
+                <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+                <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+            </Borders>
+            <Font ss:FontName="Calibri" ss:Size="10"/>
+        </Style>
+    </Styles>
+    <Worksheet ss:Name="Impresion">
+        <Table>
+            <Column ss:Width="27.75"/>
+            <Column ss:Width="93"/>
+            <Column ss:Width="84"/>
+            <Column ss:Width="100"/>
+            <Column ss:Width="84"/>
+            <Row ss:StyleID="ksg">
+            <Cell ss:StyleID="hdr">
+                <Data ss:Type="String">id_bitacora</Data>
+            </Cell>
+            <Cell ss:StyleID="hdr">
+                <Data ss:Type="String">nombre_usuario</Data>
+            </Cell>
+            <Cell ss:StyleID="hdr">
+                <Data ss:Type="String">desc_mov</Data>
+            </Cell>
+            <Cell ss:StyleID="hdr">
+                <Data ss:Type="String">criticidad</Data>
+            </Cell>
+            <Cell ss:StyleID="hdr">
+                <Data ss:Type="String">Fecha_mov</Data>
+            </Cell>
+            <Cell ss:StyleID="hdr">
+                <Data ss:Type="String">dvh</Data>
+            </Cell>
+            </Row>
+        <Row ss:StyleID="ksg" ss:utoFitHeight ="0">
+        <Cell ss:StyleID="isi">
+            <Data ss:Type="String">5</Data>
+        </Cell>
+        <Cell ss:StyleID="isi">
+            <Data ss:Type="String">karen</Data>
+        </Cell>
+        <Cell ss:StyleID="isi">
+            <Data ss:Type="String">Usuario Incorrecto</Data>
+        </Cell>
+        <Cell ss:StyleID="isi">
+            <Data ss:Type="String">Medio</Data>
+        </Cell>
+        <Cell ss:StyleID="isi">
+            <Data ss:Type="String">1/10/2015 11:49:02 a. m.</Data>
+        </Cell>
+        <Cell ss:StyleID="isi">
+            <Data ss:Type="String">461682</Data>
+        </Cell>
+        </Row>
+        </Table>
+    </Worksheet>
+</Workbook>
